@@ -24,5 +24,3 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 <img src="http://g.recordit.co/14PNvyeFd3.gif" width=250><br>
 
 ### Notes
-I'm having trouble committing the project to GitHub directly from Xcode.  
-I had to add files manually
