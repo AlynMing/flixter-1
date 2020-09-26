@@ -154,7 +154,7 @@
             </objects>
             <point key="canvasLocation" x="303" y="-852"/>
         </scene>
-        <!--Movie Grid View Controller-->
+        <!--Superhero-->
         <scene sceneID="vfU-Yz-1s7">
             <objects>
                 <viewController id="gYk-S6-3HG" customClass="MovieGridViewController" customModule="flixter" customModuleProvider="target" sceneMemberID="viewController">
@@ -164,7 +164,7 @@
                         <viewLayoutGuide key="safeArea" id="bhk-gh-grT"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" id="4II-Gl-jSC"/>
+                    <navigationItem key="navigationItem" title="Superhero" id="4II-Gl-jSC"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="s5I-Ke-B3v" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
